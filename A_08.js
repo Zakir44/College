@@ -1,4 +1,3 @@
-
 val=93 
 console.log(val.toString(2)) 
 console.log(val.toString(16)) 
